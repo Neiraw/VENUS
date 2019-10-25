@@ -1,0 +1,1 @@
+The AND gate is a basic digital logic gate that implements logical conjunction - it behaves according to the truth table to the right
